@@ -1,0 +1,12 @@
+{
+  "name": "react-jsonform",
+  "main": "lib/index.js",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "fde start",
+    "build": "fde build"
+  },
+  "dependencies": {
+    "message-event": "0.0.1"
+  }
+}
