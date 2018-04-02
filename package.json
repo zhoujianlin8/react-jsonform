@@ -2,6 +2,16 @@
   "name": "react-jsonform",
   "main": "lib/index.js",
   "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/zhoujianlin8/react-dom-jsonform"
+    },
+    "description": "react json  to the from ",
+    "keyword": [
+        "react",
+        "from",
+        "json"
+    ],
   "scripts": {
     "start": "fde start",
     "build": "fde build"
